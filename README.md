@@ -2,7 +2,7 @@
 
 This repository contains my work for the IBM Data Science Professional Certificate Capstone Project on Coursera. The project focuses on data collection, cleaning, analysis, visualization, and machine learning to solve a real-world location intelligence problem.
 
-
+  
 
 🚀 Project Overview
 
